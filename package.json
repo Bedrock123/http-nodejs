@@ -6,5 +6,10 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.mjs"
+  },
+  "dependencies": {
+    "geoblaze": "^1.2.0",
+    "@turf/area": "^6.5.0",
+    "@turf/centroid": "^6.5.0"
   }
 }
